@@ -1,0 +1,21 @@
+{
+    "name": "hospital-api",
+    "version": "2.0.0",
+    "description": "API for hospital //cours de node.js//",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "example",
+        "heroku"
+    ],
+    "author": "Florian",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.16.3"
+    },
+    "engines": {
+        "node": "10.x"
+    }
+}

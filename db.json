@@ -1,0 +1,144 @@
+{
+  "docteurs": [
+    {
+      "id": 1,
+      "prenom": "Micheal",
+      "nom": "Parker",
+      "departement": "Chirurgie"
+    },
+    {
+      "id": 2,
+      "prenom": "Antonio",
+      "nom": "Rodriguez",
+      "departement": "Cardiologie"
+    },
+    {
+      "id": 3,
+      "prenom": "Jason",
+      "nom": "Stadame",
+      "departement": "Neurologie"
+    },
+    {
+      "id": 4,
+      "prenom": "Kelly",
+      "nom": "Napadeu",
+      "departement": "Radiologie"
+    },
+    {
+      "id": 5,
+      "prenom": "Julie",
+      "nom": "Carssone",
+      "departement": "Maternité"
+    },
+    {
+      "id": 6,
+      "prenom": "Laëtitia",
+      "nom": "Tyti",
+      "departement": "Maternité"
+    },
+    {
+      "prenom": "Gérard",
+      "nom": "Manfroy",
+      "departement": "Radiologie",
+      "id": 7
+    },
+    {
+      "prenom": "Joris",
+      "nom": "Coconute",
+      "departement": "Neurologie",
+      "id": 8
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "prenom": "Jack",
+      "nom": "Spiro",
+      "dateNaissance": 1955,
+      "departement": "Neurologie",
+      "numChambre": 105,
+      "sexe": "Homme",
+      "IdDocteur": 3
+    },
+    {
+      "id": 2,
+      "prenom": "Michel",
+      "nom": "Locost",
+      "dateNaissance": 1955,
+      "departement": "Maternité",
+      "numChambre": 105,
+      "sexe": "Homme",
+      "IdDocteur": "5"
+    },
+    {
+      "id": 3,
+      "prenom": "Zac",
+      "nom": "Fry",
+      "dateNaissance": 1995,
+      "departement": "Radiologie",
+      "numChambre": 5,
+      "sexe": "Femme",
+      "IdDocteur": "4"
+    },
+    {
+      "id": 4,
+      "prenom": "Jery",
+      "nom": "Golet",
+      "dateNaissance": 2000,
+      "departement": "Radiologie",
+      "numChambre": 200,
+      "sexe": "Homme",
+      "IdDocteur": 1
+    },
+    {
+      "id": 5,
+      "prenom": "Jessica",
+      "nom": "Sètte",
+      "dateNaissance": 2000,
+      "departement": "Radiologie",
+      "numChambre": 10,
+      "sexe": "Femme",
+      "IdDocteur": 2
+    },
+    {
+      "id": 6,
+      "prenom": "Max",
+      "nom": "Téauh",
+      "dateNaissance": 1999,
+      "departement": "Radiologie",
+      "numChambre": 20,
+      "sexe": "Homme",
+      "IdDocteur": 1
+    },
+    {
+      "id": 7,
+      "prenom": "Alain",
+      "nom": "Terrieur",
+      "dateNaissance": 1999,
+      "departement": "Radiologie",
+      "numChambre": 20,
+      "sexe": "Homme",
+      "IdDocteur": 3
+    },
+    {
+      "prenom": "Alex",
+      "nom": "Terrieur",
+      "dateNaissance": 1999,
+      "departement": "Radiologie",
+      "numChambre": 105,
+      "sexe": "Homme",
+      "IdDocteur": 2,
+      "id": 8
+    },
+    {
+      "prenom": "Amélie",
+      "nom": "Jument",
+      "dateNaissance": 2000,
+      "departement": "Radiologie",
+      "numChambre": 200,
+      "sexe": "Femme",
+      "IdDocteur": 2,
+      "id": 9
+    }
+  ]
+}
