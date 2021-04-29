@@ -131,14 +131,14 @@
       "IdDocteur": 2      
     },
     {
+      "id": 9,
       "prenom": "Amélie",
       "nom": "Jument",
       "dateNaissance": 2000,
       "departement": "Radiologie",
       "numChambre": 200,
       "sexe": "Femme",
-      "IdDocteur": 2,
-      "id": 9
+      "IdDocteur": 2
     }
   ]
 }
