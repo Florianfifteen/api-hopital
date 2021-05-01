@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "6067e108-200e-48e3-ae98-41aa656a6789",
+		"name": "API HOPITAL",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET/docteurs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://aa-api-hospital.herokuapp.com/docteurs",
+					"protocol": "https",
+					"host": [
+						"aa-api-hospital",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"docteurs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET/patients",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "nom",
+						"value": "carapuce",
+						"type": "text"
+					},
+					{
+						"key": "taille",
+						"value": "6",
+						"type": "text"
+					},
+					{
+						"key": "type",
+						"value": "eau",
+						"type": "text"
+					},
+					{
+						"key": "poids",
+						"value": "4",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://aa-api-iut.herokuapp.com/dresseur",
+					"protocol": "https",
+					"host": [
+						"aa-api-iut",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"dresseur"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST/docteurs",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST/patients",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE/patients",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE/docteurs",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
