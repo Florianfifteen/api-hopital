@@ -37,16 +37,16 @@
       "departement": "Maternité"
     },
     {
-      "id": 7,
       "prenom": "Gérard",
       "nom": "Manfroy",
-      "departement": "Radiologie"      
+      "departement": "Radiologie",
+      "id": 7
     },
     {
-      "id": 8,
       "prenom": "Joris",
       "nom": "Coconute",
-      "departement": "Neurologie"      
+      "departement": "Neurologie",
+      "id": 8
     }
   ],
   "patients": [
@@ -68,7 +68,7 @@
       "departement": "Maternité",
       "numChambre": 105,
       "sexe": "Homme",
-      "IdDocteur": 5
+      "IdDocteur": "5"
     },
     {
       "id": 3,
@@ -78,7 +78,7 @@
       "departement": "Radiologie",
       "numChambre": 5,
       "sexe": "Femme",
-      "IdDocteur": 4
+      "IdDocteur": "4"
     },
     {
       "id": 4,
@@ -106,7 +106,7 @@
       "nom": "Téauh",
       "dateNaissance": 1999,
       "departement": "Radiologie",
-      "numChambre": 15,
+      "numChambre": 20,
       "sexe": "Homme",
       "IdDocteur": 1
     },
@@ -116,29 +116,29 @@
       "nom": "Terrieur",
       "dateNaissance": 1999,
       "departement": "Radiologie",
-      "numChambre": 15,
+      "numChambre": 20,
       "sexe": "Homme",
       "IdDocteur": 3
     },
     {
-      "id": 8
       "prenom": "Alex",
       "nom": "Terrieur",
       "dateNaissance": 1999,
       "departement": "Radiologie",
       "numChambre": 105,
       "sexe": "Homme",
-      "IdDocteur": 2      
+      "IdDocteur": 2,
+      "id": 8
     },
     {
-      "id": 9,
       "prenom": "Amélie",
       "nom": "Jument",
-      "dateNaissance": 2001,
+      "dateNaissance": 2000,
       "departement": "Radiologie",
       "numChambre": 200,
       "sexe": "Femme",
-      "IdDocteur": 2
+      "IdDocteur": 2,
+      "id": 9
     }
   ]
 }
